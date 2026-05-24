@@ -6,6 +6,8 @@ apis: []
 common:
   - type: Website
     url: https://www.education-management.com
+  - type: LLMsTxt
+    url: https://education-management.com/llms.txt
 description: >-
   Education Management Corporation was one of the largest providers of post-secondary
   education in North America, operating The Art Institutes, Argosy University, Brown
