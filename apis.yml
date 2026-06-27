@@ -6,7 +6,7 @@ apis: []
 common:
   - type: Website
     url: https://www.education-management.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://education-management.com/llms.txt
 description: >-
   Education Management Corporation was one of the largest providers of post-secondary
