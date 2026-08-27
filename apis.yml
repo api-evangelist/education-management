@@ -1,4 +1,5 @@
 aid: education-management
+name: "Education Management Corporation"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
