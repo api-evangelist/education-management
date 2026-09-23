@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence in Education Management
 url: https://drpress.org/ojs/index.php/fbem/article/view/26167
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Education Management" press release artificial intelligence'
 position: 1
 source: serpapi-google

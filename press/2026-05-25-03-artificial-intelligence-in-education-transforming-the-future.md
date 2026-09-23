@@ -1,7 +1,9 @@
 ---
 title: 'Artificial Intelligence in Education: Transforming the Future ...'
 url: https://www.aiu.edu/blog/artificial-intelligence-in-education-transforming-the-future-of-learning/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Education Management" press release artificial intelligence'
 position: 3
 source: serpapi-google
